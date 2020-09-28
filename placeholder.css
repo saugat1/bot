@@ -1,0 +1,225 @@
+@font-face {
+
+    font-family: miaanFont;
+
+    src: url(awi.ttf);
+
+}
+
+a
+
+{
+
+  text-decoration: none;
+
+  color:white;
+
+}
+
+#footer
+
+{
+
+	position: absolute;
+
+	vertical-align: center;
+
+	width: 98%;
+
+	top: 65%;	
+
+}
+
+.form
+
+{
+
+	position: absolute;
+
+	vertical-align: center;
+
+	width: 98%;
+
+	top: 40%;
+
+}
+
+.form1
+
+{
+
+	position: absolute;
+
+	vertical-align: center;
+
+	width: 98%;
+
+	top: 55%;
+
+}
+
+.access
+
+{
+
+	position: absolute;
+
+	vertical-align: center;
+
+	width: 98%;
+
+}
+
+.access h2
+
+{
+
+	margin-top: -15px;
+
+}
+
+input[type=text] {
+
+font-family:miaanFont;
+
+    width: 60%;
+
+    height: 5%;
+
+    padding: 8px 32px;
+
+    margin: 8px 0;
+
+    font-size:22px;
+
+    box-sizing: border-box;
+
+    border: 2px solid white;
+
+    background-color: black;
+
+    color: white;
+
+    border-radius:50px;
+
+    outline: none;
+
+    text-align: center;
+
+}
+
+input[type=password] {
+
+font-family:miaanFont;
+
+    width: 60%;
+
+    height: 5%;
+
+    padding: 8px 32px;
+
+    margin: 8px 0;
+
+    font-size:22px;
+
+    box-sizing: border-box;
+
+    border: 2px solid white;
+
+    background-color: black;
+
+    color: white;
+
+    border-radius:50px;
+
+    outline: none;
+
+    text-align: center;
+
+}
+    textarea
+    {
+      resize: none;
+      font-family:Lobster;
+      width: 60%;
+      height: 30%;
+      padding: 8px 32px;
+      margin: 8px 0;
+      font-size:22px;
+      box-sizing: border-box;
+      border: 2px solid white;
+      background-color: black;
+      color: white;
+      border-radius:50px;
+      outline: none;
+      text-align: center;
+    }    	
+
+.button {
+
+	font-family:miaanFont;
+
+    height: 5%;
+
+    background-color: black; /* Green */
+
+    border: 2px solid white;
+
+    color: white;
+
+    padding: 8px 32px;
+
+    text-align: center;
+
+    text-decoration: none;
+
+    display: inline-block;
+
+    font-size: 22px;
+
+    margin: 4px 2px;
+
+    -webkit-transition-duration: 0.4s; /* Safari */
+
+    transition-duration: 0.4s;
+
+    cursor: pointer;
+
+}
+
+
+
+.button1 {
+
+    background:none;
+
+    color: white;
+
+    border-radius:50px;
+
+}
+
+
+
+.button1:hover {
+
+    background-color: white;
+
+    color: black;
+
+}
+
+body {
+
+    background: url(Ss.jpg) no-repeat center center fixed; 
+    
+    -webkit-background-size: cover;
+    
+    -moz-background-size: cover;
+    
+    -o-background-size: cover;
+    
+    background-size: cover;
+    
+}
+
